@@ -963,11 +963,11 @@ section,
   }
 }
 
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
   html {
     font-size: 50%;
   }
-}
+} */
 
 /* @media (max-width: 990px) {
    .about .img-fluids{
