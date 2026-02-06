@@ -839,6 +839,11 @@ section,
   font-size: 1.6rem;
 }
 
+.contact .php-email-form button{
+  font-size: 1.5rem;
+  width: 80%;
+}
+
 @media (max-width: 575px) {
   .contact .php-email-form {
     padding: 2rem;
