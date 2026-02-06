@@ -721,9 +721,7 @@ section,
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
-.services{
-  height: 100vh;
-}
+
 .services .service-item {
   position: relative;
 }
