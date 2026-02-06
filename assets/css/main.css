@@ -3,7 +3,7 @@ html{
   font-size: 62.5%;
 }
 
-body p, h1, h2, h3, h4, h5, h6, em, span, li{
+body p, h1, h2, h3, h4, h5, h6, em, span, li, .contact .php-email-form button{
   font-size: 100%;
 }
 
@@ -954,24 +954,4 @@ section,
     font-size: 60%;
   }
 }
-
-@media (max-width: 1350px) {
-  html {
-    font-size: 55%;
-  }
-}
-
-/* @media (max-width: 1000px) {
-  html {
-    font-size: 50%;
-  }
-} */
-
-/* @media (max-width: 990px) {
-   .about .img-fluids{
-    justify-content: center;
-    height: auto;
-    width: 2%;
-}
-} */
 
